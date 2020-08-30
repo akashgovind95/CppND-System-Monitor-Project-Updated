@@ -1,0 +1,3 @@
+/root/akash_smb/CppND-System-Monitor-Project-Updated/build/CMakeFiles/rebuild_cache.dir
+/root/akash_smb/CppND-System-Monitor-Project-Updated/build/CMakeFiles/monitor.dir
+/root/akash_smb/CppND-System-Monitor-Project-Updated/build/CMakeFiles/edit_cache.dir
