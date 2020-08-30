@@ -1,6 +1,8 @@
 #include "format.h"
+
 #include <time.h>
 #include <unistd.h>
+
 #include <string>
 
 using std::string;
