@@ -3,7 +3,7 @@
 System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
 
-![System Monitor](images/monitor.png)
+![System Monitor](https://github.com/akashgovind95/CppND-System-Monitor-Project-Updated/blob/master/images/monitor.png)
 
 
 
